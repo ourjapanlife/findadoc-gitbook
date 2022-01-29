@@ -6,6 +6,7 @@
 
 * [Booster Shot Eligibility](overview/booster-shot-eligibility.md)
 * [Vaccines Authorized in Japan](overview/vaccines-authorized-in-japan.md)
+* [COVID-19 Vaccination Navi](overview/covid-19-vaccination-navi.md)
 
 ## Booster Shot Locations
 
