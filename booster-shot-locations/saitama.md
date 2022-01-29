@@ -6,4 +6,6 @@
 Good news is you can [**edit this page**](https://app.gitbook.com/invite/Hmir5Cugknp7uJaXBpz1/94vH2CSObJutobSAA9Ft)!
 {% endhint %}
 
-Be the first to add booster shot information for this prefecture!
+| City         | Vaccination Locations                                                                                      |
+| ------------ | ---------------------------------------------------------------------------------------------------------- |
+| Saitama City | [https://www.city.saitama.jp/en/sc/news-vaccine.html](https://www.city.saitama.jp/en/sc/news-vaccine.html) |
