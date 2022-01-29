@@ -1,5 +1,5 @@
 ---
-description: The Japanesegovernment website for vaccination locations and reservations.
+description: The Japanese government website for vaccination locations and reservations.
 ---
 
 # COVID-19 Vaccination Navi
