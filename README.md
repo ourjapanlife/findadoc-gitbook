@@ -1,5 +1,5 @@
 ---
-description: Helping Japan get vaccinated
+description: The open-source project that's helping Japan get vaccinated!
 ---
 
 # Welcome to Find a Doc
