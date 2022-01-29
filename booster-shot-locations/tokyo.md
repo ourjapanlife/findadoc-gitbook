@@ -22,3 +22,11 @@ E.g. if your last shot was between August 8th and August 21st, 2021, your vouche
 **Vaccination sites:**\
 [https://www.city.itabashi.tokyo.jp/kenko/kenshin/yobou/1030911/1033279/1034967/index.html](https://www.city.itabashi.tokyo.jp/kenko/kenshin/yobou/1030911/1033279/1034967/index.html)
 
+### Meguro Ward
+
+Meguro is mailing out tickets based on a **7 month period**. However there is currently a surplus of Moderna vaccine available. If you are  Meguro-ku resident, at least 6 months have passed since your 2nd shot, and you are fine with receiving a Moderna shot, you can request the ward office to send you your vaccination voucher immediately. See [here](https://www.city.meguro.tokyo.jp/kurashi/hoken\_eisei/shinryo/yobosesshu/covid19/vaccine\_sesshuken\_3rd\_moderna.html) for details.
+
+For general information on Meguro's booster shots, see:\
+[https://www.city.meguro.tokyo.jp/kurashi/hoken\_eisei/shinryo/yobosesshu/covid19/vaccine\_booster\_shot.html](https://www.city.meguro.tokyo.jp/kurashi/hoken\_eisei/shinryo/yobosesshu/covid19/vaccine\_booster\_shot.html)
+
+(Information valid as of January 29)
