@@ -9,7 +9,9 @@ coverY: 0
 {% hint style="info" %}
 **Disclaimer:** Information found on Find a Doc is the result of hard work and effort put in by a community of volunteers. Although we do our best to make sure this information is accurate, you may come across mistakes or outdated information from time to time. 🙇🏾‍♀️
 
-Good news is you can [**edit this page**](https://app.gitbook.com/invite/Hmir5Cugknp7uJaXBpz1/94vH2CSObJutobSAA9Ft)!
+Good news is you can [**edit this page**](https://app.gitbook.com/invite/Hmir5Cugknp7uJaXBpz1/94vH2CSObJutobSAA9Ft)!&#x20;
+
+Rest assured, edits will be reviewed as soon as possible.
 {% endhint %}
 
 We need your help! Please edit this page to add vaccine eligibility information from reliable sources on this page!
