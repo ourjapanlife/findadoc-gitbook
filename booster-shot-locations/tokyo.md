@@ -33,23 +33,19 @@ For general information on Meguro's booster shots, see:\
 
 
 
-**Minato Ward**
+### **Minato Ward**
 
+**Nishi Azabu International Clinic**
 
-
-Nishi Azabu International Clinic
-
-You must register before making a reservation. Dates and times can be chosen online
-
-English and Chinese speaking staff available. Clinic gives both Pfizer and Moderna (at different times, so choose the appropriate slot)
+You must register before making a reservation. Dates and times can be chosen online. **English** and **Chinese** speaking staff are available. The clinic gives both Pfizer and Moderna vaccines at different times, so make sure to choose the appropriate slot.
 
 {% embed url="https://coubic.com/mcs/booking_pages#pageContent" %}
 
-Royal Ladies Clinic Shirogane Takanawa
+**Royal Ladies Clinic Shirogane Takanawa**
 
 {% embed url="https://chouseisancal.com/rlcyoyaku" %}
 
-Akasaka Odayaka Clinic
+**Akasaka Odayaka Clinic**
 
 Pfizer: Mon, Thu, Fri&#x20;
 
