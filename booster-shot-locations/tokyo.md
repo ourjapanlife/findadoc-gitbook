@@ -30,3 +30,29 @@ For general information on Meguro's booster shots, see:\
 [https://www.city.meguro.tokyo.jp/kurashi/hoken\_eisei/shinryo/yobosesshu/covid19/vaccine\_booster\_shot.html](https://www.city.meguro.tokyo.jp/kurashi/hoken\_eisei/shinryo/yobosesshu/covid19/vaccine\_booster\_shot.html)
 
 (Information valid as of January 29)
+
+
+
+**Minato Ward**
+
+
+
+Nishi Azabu International Clinic
+
+You must register before making a reservation. Dates and times can be chosen online
+
+English and Chinese speaking staff available. Clinic gives both Pfizer and Moderna (at different times, so choose the appropriate slot)
+
+{% embed url="https://coubic.com/mcs/booking_pages#pageContent" %}
+
+Royal Ladies Clinic Shirogane Takanawa
+
+{% embed url="https://chouseisancal.com/rlcyoyaku" %}
+
+Akasaka Odayaka Clinic
+
+Pfizer: Mon, Thu, Fri&#x20;
+
+Moderna: Tue, Wed
+
+[https://www.akasaka-odayaka.com/f-examination/covid19-vaccine/](https://www.akasaka-odayaka.com/f-examination/covid19-vaccine/)
