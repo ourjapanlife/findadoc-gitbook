@@ -26,10 +26,14 @@ E.g. if your last shot was between August 8th and August 21st, 2021, your vouche
 
 Meguro is mailing out tickets based on a **7 month period**. However, there is currently a surplus of Moderna vaccines available. If you are a Meguro-ku resident, at least 6 months have passed since your 2nd shot, and you are fine with receiving a Moderna shot, you can request the ward office to send you your vaccination voucher immediately. See [here](https://www.city.meguro.tokyo.jp/kurashi/hoken\_eisei/shinryo/yobosesshu/covid19/vaccine\_sesshuken\_3rd\_moderna.html) for details.
 
+
+
+Once you get your voucher you can make an appointment in Meguro at any vaccination location. Call 0120-102-654 and press 3 for English and they can set up everything for you. Vouchers are mailed automatically, but f you have not received your voucher within the time period mentioned above visit the Infection Prevention Section. Specifically the COVID-19 Vaccination Section (Grand Conference Room) at the Meguro City Office and they can help you. There is English speaking staff.
+
 For general information on Meguro's booster shots, see:\
 [https://www.city.meguro.tokyo.jp/kurashi/hoken\_eisei/shinryo/yobosesshu/covid19/vaccine\_booster\_shot.html](https://www.city.meguro.tokyo.jp/kurashi/hoken\_eisei/shinryo/yobosesshu/covid19/vaccine\_booster\_shot.html)
 
-(Information valid as of January 29)
+(Information valid as of February 6)
 
 
 
