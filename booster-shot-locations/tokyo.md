@@ -49,10 +49,22 @@ You must register before making a reservation. Dates and times can be chosen onl
 
 {% embed url="https://chouseisancal.com/rlcyoyaku" %}
 
+
+
 **Akasaka Odayaka Clinic**
 
 Pfizer: Mon, Thu, Fri&#x20;
 
 Moderna: Tue, Wed
 
-[https://www.akasaka-odayaka.com/f-examination/covid19-vaccine/](https://www.akasaka-odayaka.com/f-examination/covid19-vaccine/)
+{% embed url="https://www.akasaka-odayaka.com/f-examination/covid19-vaccine" %}
+
+### Shinjuku Ward
+
+You must register on Coubic System before making a reservation. Dates and times can be chosen online. The clinic currently is providing Pfizer booster shot only for Shinjuku ward Residents.  Please check details instructions on the following site before making a reservation.\
+Language is Japanese only. &#x20;
+
+#### 新宿サンクリニック
+
+{% embed url="https://coubic.com/baron93/booking_pages#pageContent" %}
+
